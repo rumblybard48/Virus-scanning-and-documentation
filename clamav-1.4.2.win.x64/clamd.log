@@ -1,0 +1,898 @@
+Sat Jun 14 15:35:18 2025 -> +++ Started at Sat Jun 14 15:35:18 2025
+Sat Jun 14 15:35:18 2025 -> Received 0 file descriptor(s) from systemd.
+Sat Jun 14 15:35:18 2025 -> clamd daemon 1.4.2 (OS: Windows, ARCH: AMD64, CPU: AMD64)
+Sat Jun 14 15:35:18 2025 -> Log file size limited to 2097152 bytes.
+Sat Jun 14 15:35:18 2025 -> Reading databases from C:\Users\Purab\Documents\ClamAV_project\clamav-1.4.2.win.x64\database
+Sat Jun 14 15:35:18 2025 -> Not loading PUA signatures.
+Sat Jun 14 15:35:18 2025 -> Bytecode: Security mode set to "TrustSigned".
+Sat Jun 14 15:35:33 2025 -> Loaded 8707523 signatures.
+Sat Jun 14 15:35:36 2025 -> TCP: Bound to [127.0.0.1]:3310
+Sat Jun 14 15:35:36 2025 -> TCP: Setting connection queue length to 200
+Sat Jun 14 15:35:36 2025 -> Limits: Global time limit set to 120000 milliseconds.
+Sat Jun 14 15:35:36 2025 -> Limits: Global size limit set to 419430400 bytes.
+Sat Jun 14 15:35:36 2025 -> Limits: File size limit set to 104857600 bytes.
+Sat Jun 14 15:35:36 2025 -> Limits: Recursion level limit set to 17.
+Sat Jun 14 15:35:36 2025 -> Limits: Files limit set to 10000.
+Sat Jun 14 15:35:36 2025 -> Limits: MaxEmbeddedPE limit set to 41943040 bytes.
+Sat Jun 14 15:35:36 2025 -> Limits: MaxHTMLNormalize limit set to 41943040 bytes.
+Sat Jun 14 15:35:36 2025 -> Limits: MaxHTMLNoTags limit set to 8388608 bytes.
+Sat Jun 14 15:35:36 2025 -> Limits: MaxScriptNormalize limit set to 20971520 bytes.
+Sat Jun 14 15:35:36 2025 -> Limits: MaxZipTypeRcg limit set to 1048576 bytes.
+Sat Jun 14 15:35:36 2025 -> Limits: MaxPartitions limit set to 50.
+Sat Jun 14 15:35:36 2025 -> Limits: MaxIconsPE limit set to 100.
+Sat Jun 14 15:35:36 2025 -> Limits: MaxRecHWP3 limit set to 16.
+Sat Jun 14 15:35:36 2025 -> Limits: PCREMatchLimit limit set to 100000.
+Sat Jun 14 15:35:36 2025 -> Limits: PCRERecMatchLimit limit set to 2000.
+Sat Jun 14 15:35:36 2025 -> Limits: PCREMaxFileSize limit set to 104857600.
+Sat Jun 14 15:35:36 2025 -> Archive support enabled.
+Sat Jun 14 15:35:36 2025 -> Image (graphics) scanning support enabled.
+Sat Jun 14 15:35:36 2025 -> Detection using image fuzzy hash enabled.
+Sat Jun 14 15:35:36 2025 -> AlertExceedsMax heuristic detection disabled.
+Sat Jun 14 15:35:36 2025 -> Heuristic alerts enabled.
+Sat Jun 14 15:35:36 2025 -> Portable Executable support enabled.
+Sat Jun 14 15:35:36 2025 -> ELF support enabled.
+Sat Jun 14 15:35:36 2025 -> Mail files support enabled.
+Sat Jun 14 15:35:36 2025 -> OLE2 support enabled.
+Sat Jun 14 15:35:36 2025 -> PDF support enabled.
+Sat Jun 14 15:35:36 2025 -> SWF support enabled.
+Sat Jun 14 15:35:36 2025 -> HTML support enabled.
+Sat Jun 14 15:35:36 2025 -> XMLDOCS support enabled.
+Sat Jun 14 15:35:36 2025 -> HWP3 support enabled.
+Sat Jun 14 15:35:36 2025 -> OneNote support enabled.
+Sat Jun 14 15:35:36 2025 -> Self checking every 600 seconds.
+Sat Jun 14 15:35:36 2025 -> Listening daemon: PID: 13760
+Sat Jun 14 15:35:36 2025 -> MaxQueue set to: 100
+Sat Jun 14 15:45:36 2025 -> SelfCheck: Database status OK.
+Mon Jun 16 10:18:05 2025 -> +++ Started at Mon Jun 16 10:18:05 2025
+Mon Jun 16 10:18:05 2025 -> Received 0 file descriptor(s) from systemd.
+Mon Jun 16 10:18:05 2025 -> clamd daemon 1.4.2 (OS: Windows, ARCH: AMD64, CPU: AMD64)
+Mon Jun 16 10:18:05 2025 -> Log file size limited to 2097152 bytes.
+Mon Jun 16 10:18:05 2025 -> Reading databases from C:\Users\Purab\Documents\ClamAV_project\clamav-1.4.2.win.x64\database
+Mon Jun 16 10:18:05 2025 -> Not loading PUA signatures.
+Mon Jun 16 10:18:05 2025 -> Bytecode: Security mode set to "TrustSigned".
+Mon Jun 16 10:18:20 2025 -> Loaded 8707523 signatures.
+Mon Jun 16 10:18:22 2025 -> TCP: Bound to [127.0.0.1]:3310
+Mon Jun 16 10:18:22 2025 -> TCP: Setting connection queue length to 200
+Mon Jun 16 10:18:22 2025 -> Limits: Global time limit set to 120000 milliseconds.
+Mon Jun 16 10:18:22 2025 -> Limits: Global size limit set to 419430400 bytes.
+Mon Jun 16 10:18:22 2025 -> Limits: File size limit set to 104857600 bytes.
+Mon Jun 16 10:18:22 2025 -> Limits: Recursion level limit set to 17.
+Mon Jun 16 10:18:22 2025 -> Limits: Files limit set to 10000.
+Mon Jun 16 10:18:22 2025 -> Limits: MaxEmbeddedPE limit set to 41943040 bytes.
+Mon Jun 16 10:18:22 2025 -> Limits: MaxHTMLNormalize limit set to 41943040 bytes.
+Mon Jun 16 10:18:22 2025 -> Limits: MaxHTMLNoTags limit set to 8388608 bytes.
+Mon Jun 16 10:18:22 2025 -> Limits: MaxScriptNormalize limit set to 20971520 bytes.
+Mon Jun 16 10:18:22 2025 -> Limits: MaxZipTypeRcg limit set to 1048576 bytes.
+Mon Jun 16 10:18:22 2025 -> Limits: MaxPartitions limit set to 50.
+Mon Jun 16 10:18:22 2025 -> Limits: MaxIconsPE limit set to 100.
+Mon Jun 16 10:18:22 2025 -> Limits: MaxRecHWP3 limit set to 16.
+Mon Jun 16 10:18:22 2025 -> Limits: PCREMatchLimit limit set to 100000.
+Mon Jun 16 10:18:22 2025 -> Limits: PCRERecMatchLimit limit set to 2000.
+Mon Jun 16 10:18:22 2025 -> Limits: PCREMaxFileSize limit set to 104857600.
+Mon Jun 16 10:18:22 2025 -> Archive support enabled.
+Mon Jun 16 10:18:22 2025 -> Image (graphics) scanning support enabled.
+Mon Jun 16 10:18:22 2025 -> Detection using image fuzzy hash enabled.
+Mon Jun 16 10:18:22 2025 -> AlertExceedsMax heuristic detection disabled.
+Mon Jun 16 10:18:22 2025 -> Heuristic alerts enabled.
+Mon Jun 16 10:18:22 2025 -> Portable Executable support enabled.
+Mon Jun 16 10:18:22 2025 -> ELF support enabled.
+Mon Jun 16 10:18:22 2025 -> Mail files support enabled.
+Mon Jun 16 10:18:22 2025 -> OLE2 support enabled.
+Mon Jun 16 10:18:22 2025 -> PDF support enabled.
+Mon Jun 16 10:18:22 2025 -> SWF support enabled.
+Mon Jun 16 10:18:22 2025 -> HTML support enabled.
+Mon Jun 16 10:18:22 2025 -> XMLDOCS support enabled.
+Mon Jun 16 10:18:22 2025 -> HWP3 support enabled.
+Mon Jun 16 10:18:22 2025 -> OneNote support enabled.
+Mon Jun 16 10:18:22 2025 -> Self checking every 600 seconds.
+Mon Jun 16 10:18:22 2025 -> Listening daemon: PID: 14592
+Mon Jun 16 10:18:22 2025 -> MaxQueue set to: 100
+Mon Jun 16 13:50:21 2025 -> +++ Started at Mon Jun 16 13:50:21 2025
+Mon Jun 16 13:50:21 2025 -> Received 0 file descriptor(s) from systemd.
+Mon Jun 16 13:50:21 2025 -> clamd daemon 1.4.2 (OS: Windows, ARCH: AMD64, CPU: AMD64)
+Mon Jun 16 13:50:21 2025 -> Log file size limited to 2097152 bytes.
+Mon Jun 16 13:50:21 2025 -> Reading databases from C:\Users\Purab\Documents\ClamAV_project\clamav-1.4.2.win.x64\database
+Mon Jun 16 13:50:21 2025 -> Not loading PUA signatures.
+Mon Jun 16 13:50:21 2025 -> Bytecode: Security mode set to "TrustSigned".
+Mon Jun 16 13:50:41 2025 -> Loaded 8707523 signatures.
+Mon Jun 16 13:50:45 2025 -> TCP: Bound to [127.0.0.1]:3310
+Mon Jun 16 13:50:45 2025 -> TCP: Setting connection queue length to 200
+Mon Jun 16 13:50:45 2025 -> Limits: Global time limit set to 120000 milliseconds.
+Mon Jun 16 13:50:45 2025 -> Limits: Global size limit set to 419430400 bytes.
+Mon Jun 16 13:50:45 2025 -> Limits: File size limit set to 104857600 bytes.
+Mon Jun 16 13:50:45 2025 -> Limits: Recursion level limit set to 17.
+Mon Jun 16 13:50:45 2025 -> Limits: Files limit set to 10000.
+Mon Jun 16 13:50:45 2025 -> Limits: MaxEmbeddedPE limit set to 41943040 bytes.
+Mon Jun 16 13:50:45 2025 -> Limits: MaxHTMLNormalize limit set to 41943040 bytes.
+Mon Jun 16 13:50:45 2025 -> Limits: MaxHTMLNoTags limit set to 8388608 bytes.
+Mon Jun 16 13:50:45 2025 -> Limits: MaxScriptNormalize limit set to 20971520 bytes.
+Mon Jun 16 13:50:45 2025 -> Limits: MaxZipTypeRcg limit set to 1048576 bytes.
+Mon Jun 16 13:50:45 2025 -> Limits: MaxPartitions limit set to 50.
+Mon Jun 16 13:50:45 2025 -> Limits: MaxIconsPE limit set to 100.
+Mon Jun 16 13:50:45 2025 -> Limits: MaxRecHWP3 limit set to 16.
+Mon Jun 16 13:50:45 2025 -> Limits: PCREMatchLimit limit set to 100000.
+Mon Jun 16 13:50:45 2025 -> Limits: PCRERecMatchLimit limit set to 2000.
+Mon Jun 16 13:50:45 2025 -> Limits: PCREMaxFileSize limit set to 104857600.
+Mon Jun 16 13:50:45 2025 -> Archive support enabled.
+Mon Jun 16 13:50:45 2025 -> Image (graphics) scanning support enabled.
+Mon Jun 16 13:50:45 2025 -> Detection using image fuzzy hash enabled.
+Mon Jun 16 13:50:45 2025 -> AlertExceedsMax heuristic detection disabled.
+Mon Jun 16 13:50:45 2025 -> Heuristic alerts enabled.
+Mon Jun 16 13:50:45 2025 -> Portable Executable support enabled.
+Mon Jun 16 13:50:45 2025 -> ELF support enabled.
+Mon Jun 16 13:50:45 2025 -> Mail files support enabled.
+Mon Jun 16 13:50:45 2025 -> OLE2 support enabled.
+Mon Jun 16 13:50:45 2025 -> PDF support enabled.
+Mon Jun 16 13:50:45 2025 -> SWF support enabled.
+Mon Jun 16 13:50:45 2025 -> HTML support enabled.
+Mon Jun 16 13:50:45 2025 -> XMLDOCS support enabled.
+Mon Jun 16 13:50:45 2025 -> HWP3 support enabled.
+Mon Jun 16 13:50:45 2025 -> OneNote support enabled.
+Mon Jun 16 13:50:45 2025 -> Self checking every 600 seconds.
+Mon Jun 16 13:50:45 2025 -> Listening daemon: PID: 2780
+Mon Jun 16 13:50:45 2025 -> MaxQueue set to: 100
+Mon Jun 16 13:59:31 2025 -> +++ Started at Mon Jun 16 13:59:31 2025
+Mon Jun 16 13:59:31 2025 -> Received 0 file descriptor(s) from systemd.
+Mon Jun 16 13:59:31 2025 -> clamd daemon 1.4.2 (OS: Windows, ARCH: AMD64, CPU: AMD64)
+Mon Jun 16 13:59:31 2025 -> Log file size limited to 2097152 bytes.
+Mon Jun 16 13:59:31 2025 -> Reading databases from C:\Users\Purab\Documents\ClamAV_project\clamav-1.4.2.win.x64\database
+Mon Jun 16 13:59:31 2025 -> Not loading PUA signatures.
+Mon Jun 16 13:59:31 2025 -> Bytecode: Security mode set to "TrustSigned".
+Mon Jun 16 13:59:50 2025 -> Loaded 8707523 signatures.
+Mon Jun 16 13:59:55 2025 -> TCP: Bound to [127.0.0.1]:3310
+Mon Jun 16 13:59:55 2025 -> TCP: Setting connection queue length to 200
+Mon Jun 16 13:59:55 2025 -> Limits: Global time limit set to 120000 milliseconds.
+Mon Jun 16 13:59:55 2025 -> Limits: Global size limit set to 419430400 bytes.
+Mon Jun 16 13:59:55 2025 -> Limits: File size limit set to 104857600 bytes.
+Mon Jun 16 13:59:55 2025 -> Limits: Recursion level limit set to 17.
+Mon Jun 16 13:59:55 2025 -> Limits: Files limit set to 10000.
+Mon Jun 16 13:59:55 2025 -> Limits: MaxEmbeddedPE limit set to 41943040 bytes.
+Mon Jun 16 13:59:55 2025 -> Limits: MaxHTMLNormalize limit set to 41943040 bytes.
+Mon Jun 16 13:59:55 2025 -> Limits: MaxHTMLNoTags limit set to 8388608 bytes.
+Mon Jun 16 13:59:55 2025 -> Limits: MaxScriptNormalize limit set to 20971520 bytes.
+Mon Jun 16 13:59:55 2025 -> Limits: MaxZipTypeRcg limit set to 1048576 bytes.
+Mon Jun 16 13:59:55 2025 -> Limits: MaxPartitions limit set to 50.
+Mon Jun 16 13:59:55 2025 -> Limits: MaxIconsPE limit set to 100.
+Mon Jun 16 13:59:55 2025 -> Limits: MaxRecHWP3 limit set to 16.
+Mon Jun 16 13:59:55 2025 -> Limits: PCREMatchLimit limit set to 100000.
+Mon Jun 16 13:59:55 2025 -> Limits: PCRERecMatchLimit limit set to 2000.
+Mon Jun 16 13:59:55 2025 -> Limits: PCREMaxFileSize limit set to 104857600.
+Mon Jun 16 13:59:55 2025 -> Archive support enabled.
+Mon Jun 16 13:59:55 2025 -> Image (graphics) scanning support enabled.
+Mon Jun 16 13:59:55 2025 -> Detection using image fuzzy hash enabled.
+Mon Jun 16 13:59:55 2025 -> AlertExceedsMax heuristic detection disabled.
+Mon Jun 16 13:59:55 2025 -> Heuristic alerts enabled.
+Mon Jun 16 13:59:55 2025 -> Portable Executable support enabled.
+Mon Jun 16 13:59:55 2025 -> ELF support enabled.
+Mon Jun 16 13:59:55 2025 -> Mail files support enabled.
+Mon Jun 16 13:59:55 2025 -> OLE2 support enabled.
+Mon Jun 16 13:59:55 2025 -> PDF support enabled.
+Mon Jun 16 13:59:55 2025 -> SWF support enabled.
+Mon Jun 16 13:59:55 2025 -> HTML support enabled.
+Mon Jun 16 13:59:55 2025 -> XMLDOCS support enabled.
+Mon Jun 16 13:59:55 2025 -> HWP3 support enabled.
+Mon Jun 16 13:59:55 2025 -> OneNote support enabled.
+Mon Jun 16 13:59:55 2025 -> Self checking every 600 seconds.
+Mon Jun 16 13:59:55 2025 -> Listening daemon: PID: 8416
+Mon Jun 16 13:59:55 2025 -> MaxQueue set to: 100
+Tue Jun 17 10:37:44 2025 -> +++ Started at Tue Jun 17 10:37:44 2025
+Tue Jun 17 10:37:44 2025 -> Received 0 file descriptor(s) from systemd.
+Tue Jun 17 10:37:44 2025 -> clamd daemon 1.4.2 (OS: Windows, ARCH: AMD64, CPU: AMD64)
+Tue Jun 17 10:37:44 2025 -> Log file size limited to 2097152 bytes.
+Tue Jun 17 10:37:44 2025 -> Reading databases from C:\Users\Purab\Documents\ClamAV_project\clamav-1.4.2.win.x64\database
+Tue Jun 17 10:37:44 2025 -> Not loading PUA signatures.
+Tue Jun 17 10:37:44 2025 -> Bytecode: Security mode set to "TrustSigned".
+Tue Jun 17 10:38:04 2025 -> Loaded 8707523 signatures.
+Tue Jun 17 10:38:08 2025 -> TCP: Bound to [127.0.0.1]:3310
+Tue Jun 17 10:38:08 2025 -> TCP: Setting connection queue length to 200
+Tue Jun 17 10:38:08 2025 -> Limits: Global time limit set to 120000 milliseconds.
+Tue Jun 17 10:38:08 2025 -> Limits: Global size limit set to 419430400 bytes.
+Tue Jun 17 10:38:08 2025 -> Limits: File size limit set to 104857600 bytes.
+Tue Jun 17 10:38:08 2025 -> Limits: Recursion level limit set to 17.
+Tue Jun 17 10:38:08 2025 -> Limits: Files limit set to 10000.
+Tue Jun 17 10:38:08 2025 -> Limits: MaxEmbeddedPE limit set to 41943040 bytes.
+Tue Jun 17 10:38:08 2025 -> Limits: MaxHTMLNormalize limit set to 41943040 bytes.
+Tue Jun 17 10:38:08 2025 -> Limits: MaxHTMLNoTags limit set to 8388608 bytes.
+Tue Jun 17 10:38:08 2025 -> Limits: MaxScriptNormalize limit set to 20971520 bytes.
+Tue Jun 17 10:38:08 2025 -> Limits: MaxZipTypeRcg limit set to 1048576 bytes.
+Tue Jun 17 10:38:08 2025 -> Limits: MaxPartitions limit set to 50.
+Tue Jun 17 10:38:08 2025 -> Limits: MaxIconsPE limit set to 100.
+Tue Jun 17 10:38:08 2025 -> Limits: MaxRecHWP3 limit set to 16.
+Tue Jun 17 10:38:08 2025 -> Limits: PCREMatchLimit limit set to 100000.
+Tue Jun 17 10:38:08 2025 -> Limits: PCRERecMatchLimit limit set to 2000.
+Tue Jun 17 10:38:08 2025 -> Limits: PCREMaxFileSize limit set to 104857600.
+Tue Jun 17 10:38:08 2025 -> Archive support enabled.
+Tue Jun 17 10:38:08 2025 -> Image (graphics) scanning support enabled.
+Tue Jun 17 10:38:08 2025 -> Detection using image fuzzy hash enabled.
+Tue Jun 17 10:38:08 2025 -> AlertExceedsMax heuristic detection disabled.
+Tue Jun 17 10:38:08 2025 -> Heuristic alerts enabled.
+Tue Jun 17 10:38:08 2025 -> Portable Executable support enabled.
+Tue Jun 17 10:38:08 2025 -> ELF support enabled.
+Tue Jun 17 10:38:08 2025 -> Mail files support enabled.
+Tue Jun 17 10:38:08 2025 -> OLE2 support enabled.
+Tue Jun 17 10:38:08 2025 -> PDF support enabled.
+Tue Jun 17 10:38:08 2025 -> SWF support enabled.
+Tue Jun 17 10:38:08 2025 -> HTML support enabled.
+Tue Jun 17 10:38:08 2025 -> XMLDOCS support enabled.
+Tue Jun 17 10:38:08 2025 -> HWP3 support enabled.
+Tue Jun 17 10:38:08 2025 -> OneNote support enabled.
+Tue Jun 17 10:38:08 2025 -> Self checking every 600 seconds.
+Tue Jun 17 10:38:08 2025 -> Listening daemon: PID: 12404
+Tue Jun 17 10:38:08 2025 -> MaxQueue set to: 100
+Tue Jun 17 10:48:08 2025 -> SelfCheck: Database status OK.
+Tue Jun 17 12:21:32 2025 -> +++ Started at Tue Jun 17 12:21:32 2025
+Tue Jun 17 12:21:32 2025 -> Received 0 file descriptor(s) from systemd.
+Tue Jun 17 12:21:32 2025 -> clamd daemon 1.4.2 (OS: Windows, ARCH: AMD64, CPU: AMD64)
+Tue Jun 17 12:21:32 2025 -> Log file size limited to 2097152 bytes.
+Tue Jun 17 12:21:32 2025 -> Reading databases from C:\Users\Purab\Documents\ClamAV_project\clamav-1.4.2.win.x64\database
+Tue Jun 17 12:21:32 2025 -> Not loading PUA signatures.
+Tue Jun 17 12:21:32 2025 -> Bytecode: Security mode set to "TrustSigned".
+Tue Jun 17 12:21:47 2025 -> Loaded 8707523 signatures.
+Tue Jun 17 12:21:50 2025 -> TCP: Bound to [127.0.0.1]:3310
+Tue Jun 17 12:21:50 2025 -> TCP: Setting connection queue length to 200
+Tue Jun 17 12:21:50 2025 -> Limits: Global time limit set to 120000 milliseconds.
+Tue Jun 17 12:21:50 2025 -> Limits: Global size limit set to 419430400 bytes.
+Tue Jun 17 12:21:50 2025 -> Limits: File size limit set to 104857600 bytes.
+Tue Jun 17 12:21:50 2025 -> Limits: Recursion level limit set to 17.
+Tue Jun 17 12:21:50 2025 -> Limits: Files limit set to 10000.
+Tue Jun 17 12:21:50 2025 -> Limits: MaxEmbeddedPE limit set to 41943040 bytes.
+Tue Jun 17 12:21:50 2025 -> Limits: MaxHTMLNormalize limit set to 41943040 bytes.
+Tue Jun 17 12:21:50 2025 -> Limits: MaxHTMLNoTags limit set to 8388608 bytes.
+Tue Jun 17 12:21:50 2025 -> Limits: MaxScriptNormalize limit set to 20971520 bytes.
+Tue Jun 17 12:21:50 2025 -> Limits: MaxZipTypeRcg limit set to 1048576 bytes.
+Tue Jun 17 12:21:50 2025 -> Limits: MaxPartitions limit set to 50.
+Tue Jun 17 12:21:50 2025 -> Limits: MaxIconsPE limit set to 100.
+Tue Jun 17 12:21:50 2025 -> Limits: MaxRecHWP3 limit set to 16.
+Tue Jun 17 12:21:50 2025 -> Limits: PCREMatchLimit limit set to 100000.
+Tue Jun 17 12:21:50 2025 -> Limits: PCRERecMatchLimit limit set to 2000.
+Tue Jun 17 12:21:50 2025 -> Limits: PCREMaxFileSize limit set to 104857600.
+Tue Jun 17 12:21:50 2025 -> Archive support enabled.
+Tue Jun 17 12:21:50 2025 -> Image (graphics) scanning support enabled.
+Tue Jun 17 12:21:50 2025 -> Detection using image fuzzy hash enabled.
+Tue Jun 17 12:21:50 2025 -> AlertExceedsMax heuristic detection disabled.
+Tue Jun 17 12:21:50 2025 -> Heuristic alerts enabled.
+Tue Jun 17 12:21:50 2025 -> Portable Executable support enabled.
+Tue Jun 17 12:21:50 2025 -> ELF support enabled.
+Tue Jun 17 12:21:50 2025 -> Mail files support enabled.
+Tue Jun 17 12:21:50 2025 -> OLE2 support enabled.
+Tue Jun 17 12:21:50 2025 -> PDF support enabled.
+Tue Jun 17 12:21:50 2025 -> SWF support enabled.
+Tue Jun 17 12:21:50 2025 -> HTML support enabled.
+Tue Jun 17 12:21:50 2025 -> XMLDOCS support enabled.
+Tue Jun 17 12:21:50 2025 -> HWP3 support enabled.
+Tue Jun 17 12:21:50 2025 -> OneNote support enabled.
+Tue Jun 17 12:21:50 2025 -> Self checking every 600 seconds.
+Tue Jun 17 12:21:50 2025 -> Listening daemon: PID: 2744
+Tue Jun 17 12:21:50 2025 -> MaxQueue set to: 100
+Tue Jun 17 13:56:00 2025 -> +++ Started at Tue Jun 17 13:56:00 2025
+Tue Jun 17 13:56:00 2025 -> Received 0 file descriptor(s) from systemd.
+Tue Jun 17 13:56:00 2025 -> clamd daemon 1.4.2 (OS: Windows, ARCH: AMD64, CPU: AMD64)
+Tue Jun 17 13:56:00 2025 -> Log file size limited to 2097152 bytes.
+Tue Jun 17 13:56:00 2025 -> Reading databases from C:\Users\Purab\Documents\ClamAV_project\clamav-1.4.2.win.x64\database
+Tue Jun 17 13:56:00 2025 -> Not loading PUA signatures.
+Tue Jun 17 13:56:00 2025 -> Bytecode: Security mode set to "TrustSigned".
+Tue Jun 17 13:56:15 2025 -> Loaded 8707523 signatures.
+Tue Jun 17 13:56:18 2025 -> TCP: Bound to [127.0.0.1]:3310
+Tue Jun 17 13:56:18 2025 -> TCP: Setting connection queue length to 200
+Tue Jun 17 13:56:18 2025 -> Limits: Global time limit set to 120000 milliseconds.
+Tue Jun 17 13:56:18 2025 -> Limits: Global size limit set to 419430400 bytes.
+Tue Jun 17 13:56:18 2025 -> Limits: File size limit set to 104857600 bytes.
+Tue Jun 17 13:56:18 2025 -> Limits: Recursion level limit set to 17.
+Tue Jun 17 13:56:18 2025 -> Limits: Files limit set to 10000.
+Tue Jun 17 13:56:18 2025 -> Limits: MaxEmbeddedPE limit set to 41943040 bytes.
+Tue Jun 17 13:56:18 2025 -> Limits: MaxHTMLNormalize limit set to 41943040 bytes.
+Tue Jun 17 13:56:18 2025 -> Limits: MaxHTMLNoTags limit set to 8388608 bytes.
+Tue Jun 17 13:56:18 2025 -> Limits: MaxScriptNormalize limit set to 20971520 bytes.
+Tue Jun 17 13:56:18 2025 -> Limits: MaxZipTypeRcg limit set to 1048576 bytes.
+Tue Jun 17 13:56:18 2025 -> Limits: MaxPartitions limit set to 50.
+Tue Jun 17 13:56:18 2025 -> Limits: MaxIconsPE limit set to 100.
+Tue Jun 17 13:56:18 2025 -> Limits: MaxRecHWP3 limit set to 16.
+Tue Jun 17 13:56:18 2025 -> Limits: PCREMatchLimit limit set to 100000.
+Tue Jun 17 13:56:18 2025 -> Limits: PCRERecMatchLimit limit set to 2000.
+Tue Jun 17 13:56:18 2025 -> Limits: PCREMaxFileSize limit set to 104857600.
+Tue Jun 17 13:56:18 2025 -> Archive support enabled.
+Tue Jun 17 13:56:18 2025 -> Image (graphics) scanning support enabled.
+Tue Jun 17 13:56:18 2025 -> Detection using image fuzzy hash enabled.
+Tue Jun 17 13:56:18 2025 -> AlertExceedsMax heuristic detection disabled.
+Tue Jun 17 13:56:18 2025 -> Heuristic alerts enabled.
+Tue Jun 17 13:56:18 2025 -> Portable Executable support enabled.
+Tue Jun 17 13:56:18 2025 -> ELF support enabled.
+Tue Jun 17 13:56:18 2025 -> Mail files support enabled.
+Tue Jun 17 13:56:18 2025 -> OLE2 support enabled.
+Tue Jun 17 13:56:18 2025 -> PDF support enabled.
+Tue Jun 17 13:56:18 2025 -> SWF support enabled.
+Tue Jun 17 13:56:18 2025 -> HTML support enabled.
+Tue Jun 17 13:56:18 2025 -> XMLDOCS support enabled.
+Tue Jun 17 13:56:18 2025 -> HWP3 support enabled.
+Tue Jun 17 13:56:18 2025 -> OneNote support enabled.
+Tue Jun 17 13:56:18 2025 -> Self checking every 600 seconds.
+Tue Jun 17 13:56:18 2025 -> Listening daemon: PID: 18008
+Tue Jun 17 13:56:18 2025 -> MaxQueue set to: 100
+Tue Jun 17 14:59:34 2025 -> SelfCheck: Database status OK.
+Tue Jun 17 15:09:34 2025 -> SelfCheck: Database status OK.
+Tue Jun 17 15:19:34 2025 -> SelfCheck: Database status OK.
+Tue Jun 17 15:29:54 2025 -> +++ Started at Tue Jun 17 15:29:54 2025
+Tue Jun 17 15:29:54 2025 -> Received 0 file descriptor(s) from systemd.
+Tue Jun 17 15:29:54 2025 -> clamd daemon 1.4.2 (OS: Windows, ARCH: AMD64, CPU: AMD64)
+Tue Jun 17 15:29:54 2025 -> Log file size limited to 2097152 bytes.
+Tue Jun 17 15:29:54 2025 -> Reading databases from C:\Users\Purab\Documents\ClamAV_project\clamav-1.4.2.win.x64\database
+Tue Jun 17 15:29:54 2025 -> Not loading PUA signatures.
+Tue Jun 17 15:29:54 2025 -> Bytecode: Security mode set to "TrustSigned".
+Tue Jun 17 15:30:14 2025 -> Loaded 8707523 signatures.
+Tue Jun 17 15:30:18 2025 -> TCP: Bound to [127.0.0.1]:3310
+Tue Jun 17 15:30:18 2025 -> TCP: Setting connection queue length to 200
+Tue Jun 17 15:30:18 2025 -> Limits: Global time limit set to 120000 milliseconds.
+Tue Jun 17 15:30:18 2025 -> Limits: Global size limit set to 419430400 bytes.
+Tue Jun 17 15:30:18 2025 -> Limits: File size limit set to 104857600 bytes.
+Tue Jun 17 15:30:18 2025 -> Limits: Recursion level limit set to 17.
+Tue Jun 17 15:30:18 2025 -> Limits: Files limit set to 10000.
+Tue Jun 17 15:30:18 2025 -> Limits: MaxEmbeddedPE limit set to 41943040 bytes.
+Tue Jun 17 15:30:18 2025 -> Limits: MaxHTMLNormalize limit set to 41943040 bytes.
+Tue Jun 17 15:30:18 2025 -> Limits: MaxHTMLNoTags limit set to 8388608 bytes.
+Tue Jun 17 15:30:18 2025 -> Limits: MaxScriptNormalize limit set to 20971520 bytes.
+Tue Jun 17 15:30:18 2025 -> Limits: MaxZipTypeRcg limit set to 1048576 bytes.
+Tue Jun 17 15:30:18 2025 -> Limits: MaxPartitions limit set to 50.
+Tue Jun 17 15:30:18 2025 -> Limits: MaxIconsPE limit set to 100.
+Tue Jun 17 15:30:18 2025 -> Limits: MaxRecHWP3 limit set to 16.
+Tue Jun 17 15:30:18 2025 -> Limits: PCREMatchLimit limit set to 100000.
+Tue Jun 17 15:30:18 2025 -> Limits: PCRERecMatchLimit limit set to 2000.
+Tue Jun 17 15:30:18 2025 -> Limits: PCREMaxFileSize limit set to 104857600.
+Tue Jun 17 15:30:18 2025 -> Archive support enabled.
+Tue Jun 17 15:30:18 2025 -> Image (graphics) scanning support enabled.
+Tue Jun 17 15:30:18 2025 -> Detection using image fuzzy hash enabled.
+Tue Jun 17 15:30:18 2025 -> AlertExceedsMax heuristic detection disabled.
+Tue Jun 17 15:30:18 2025 -> Heuristic alerts enabled.
+Tue Jun 17 15:30:18 2025 -> Portable Executable support enabled.
+Tue Jun 17 15:30:18 2025 -> ELF support enabled.
+Tue Jun 17 15:30:18 2025 -> Mail files support enabled.
+Tue Jun 17 15:30:18 2025 -> OLE2 support enabled.
+Tue Jun 17 15:30:18 2025 -> PDF support enabled.
+Tue Jun 17 15:30:18 2025 -> SWF support enabled.
+Tue Jun 17 15:30:18 2025 -> HTML support enabled.
+Tue Jun 17 15:30:18 2025 -> XMLDOCS support enabled.
+Tue Jun 17 15:30:18 2025 -> HWP3 support enabled.
+Tue Jun 17 15:30:18 2025 -> OneNote support enabled.
+Tue Jun 17 15:30:18 2025 -> Self checking every 600 seconds.
+Tue Jun 17 15:30:18 2025 -> Listening daemon: PID: 20292
+Tue Jun 17 15:30:18 2025 -> MaxQueue set to: 100
+Wed Jun 18 13:33:32 2025 -> +++ Started at Wed Jun 18 13:33:32 2025
+Wed Jun 18 13:33:32 2025 -> Received 0 file descriptor(s) from systemd.
+Wed Jun 18 13:33:32 2025 -> clamd daemon 1.4.2 (OS: Windows, ARCH: AMD64, CPU: AMD64)
+Wed Jun 18 13:33:32 2025 -> Log file size limited to 2097152 bytes.
+Wed Jun 18 13:33:32 2025 -> Reading databases from C:\Users\Purab\Documents\ClamAV_project\clamav-1.4.2.win.x64\database
+Wed Jun 18 13:33:32 2025 -> Not loading PUA signatures.
+Wed Jun 18 13:33:32 2025 -> Bytecode: Security mode set to "TrustSigned".
+Wed Jun 18 13:33:49 2025 -> Loaded 8707523 signatures.
+Wed Jun 18 13:33:53 2025 -> TCP: Bound to [127.0.0.1]:3310
+Wed Jun 18 13:33:53 2025 -> TCP: Setting connection queue length to 200
+Wed Jun 18 13:33:53 2025 -> Limits: Global time limit set to 120000 milliseconds.
+Wed Jun 18 13:33:53 2025 -> Limits: Global size limit set to 419430400 bytes.
+Wed Jun 18 13:33:53 2025 -> Limits: File size limit set to 104857600 bytes.
+Wed Jun 18 13:33:53 2025 -> Limits: Recursion level limit set to 17.
+Wed Jun 18 13:33:53 2025 -> Limits: Files limit set to 10000.
+Wed Jun 18 13:33:53 2025 -> Limits: MaxEmbeddedPE limit set to 41943040 bytes.
+Wed Jun 18 13:33:53 2025 -> Limits: MaxHTMLNormalize limit set to 41943040 bytes.
+Wed Jun 18 13:33:53 2025 -> Limits: MaxHTMLNoTags limit set to 8388608 bytes.
+Wed Jun 18 13:33:53 2025 -> Limits: MaxScriptNormalize limit set to 20971520 bytes.
+Wed Jun 18 13:33:53 2025 -> Limits: MaxZipTypeRcg limit set to 1048576 bytes.
+Wed Jun 18 13:33:53 2025 -> Limits: MaxPartitions limit set to 50.
+Wed Jun 18 13:33:53 2025 -> Limits: MaxIconsPE limit set to 100.
+Wed Jun 18 13:33:53 2025 -> Limits: MaxRecHWP3 limit set to 16.
+Wed Jun 18 13:33:53 2025 -> Limits: PCREMatchLimit limit set to 100000.
+Wed Jun 18 13:33:53 2025 -> Limits: PCRERecMatchLimit limit set to 2000.
+Wed Jun 18 13:33:53 2025 -> Limits: PCREMaxFileSize limit set to 104857600.
+Wed Jun 18 13:33:53 2025 -> Archive support enabled.
+Wed Jun 18 13:33:53 2025 -> Image (graphics) scanning support enabled.
+Wed Jun 18 13:33:53 2025 -> Detection using image fuzzy hash enabled.
+Wed Jun 18 13:33:53 2025 -> AlertExceedsMax heuristic detection disabled.
+Wed Jun 18 13:33:53 2025 -> Heuristic alerts enabled.
+Wed Jun 18 13:33:53 2025 -> Portable Executable support enabled.
+Wed Jun 18 13:33:53 2025 -> ELF support enabled.
+Wed Jun 18 13:33:53 2025 -> Mail files support enabled.
+Wed Jun 18 13:33:53 2025 -> OLE2 support enabled.
+Wed Jun 18 13:33:53 2025 -> PDF support enabled.
+Wed Jun 18 13:33:53 2025 -> SWF support enabled.
+Wed Jun 18 13:33:53 2025 -> HTML support enabled.
+Wed Jun 18 13:33:53 2025 -> XMLDOCS support enabled.
+Wed Jun 18 13:33:53 2025 -> HWP3 support enabled.
+Wed Jun 18 13:33:53 2025 -> OneNote support enabled.
+Wed Jun 18 13:33:53 2025 -> Self checking every 600 seconds.
+Wed Jun 18 13:33:53 2025 -> Listening daemon: PID: 8204
+Wed Jun 18 13:33:53 2025 -> MaxQueue set to: 100
+Thu Jun 19 09:34:48 2025 -> +++ Started at Thu Jun 19 09:34:48 2025
+Thu Jun 19 09:34:48 2025 -> Received 0 file descriptor(s) from systemd.
+Thu Jun 19 09:34:48 2025 -> clamd daemon 1.4.2 (OS: Windows, ARCH: AMD64, CPU: AMD64)
+Thu Jun 19 09:34:48 2025 -> Log file size limited to 2097152 bytes.
+Thu Jun 19 09:34:48 2025 -> Reading databases from C:\Users\Purab\Documents\ClamAV_project\clamav-1.4.2.win.x64\database
+Thu Jun 19 09:34:48 2025 -> Not loading PUA signatures.
+Thu Jun 19 09:34:48 2025 -> Bytecode: Security mode set to "TrustSigned".
+Thu Jun 19 09:35:02 2025 -> Loaded 8707523 signatures.
+Thu Jun 19 09:35:06 2025 -> TCP: Bound to [127.0.0.1]:3310
+Thu Jun 19 09:35:06 2025 -> TCP: Setting connection queue length to 200
+Thu Jun 19 09:35:06 2025 -> Limits: Global time limit set to 120000 milliseconds.
+Thu Jun 19 09:35:06 2025 -> Limits: Global size limit set to 419430400 bytes.
+Thu Jun 19 09:35:06 2025 -> Limits: File size limit set to 104857600 bytes.
+Thu Jun 19 09:35:06 2025 -> Limits: Recursion level limit set to 17.
+Thu Jun 19 09:35:06 2025 -> Limits: Files limit set to 10000.
+Thu Jun 19 09:35:06 2025 -> Limits: MaxEmbeddedPE limit set to 41943040 bytes.
+Thu Jun 19 09:35:06 2025 -> Limits: MaxHTMLNormalize limit set to 41943040 bytes.
+Thu Jun 19 09:35:06 2025 -> Limits: MaxHTMLNoTags limit set to 8388608 bytes.
+Thu Jun 19 09:35:06 2025 -> Limits: MaxScriptNormalize limit set to 20971520 bytes.
+Thu Jun 19 09:35:06 2025 -> Limits: MaxZipTypeRcg limit set to 1048576 bytes.
+Thu Jun 19 09:35:06 2025 -> Limits: MaxPartitions limit set to 50.
+Thu Jun 19 09:35:06 2025 -> Limits: MaxIconsPE limit set to 100.
+Thu Jun 19 09:35:06 2025 -> Limits: MaxRecHWP3 limit set to 16.
+Thu Jun 19 09:35:06 2025 -> Limits: PCREMatchLimit limit set to 100000.
+Thu Jun 19 09:35:06 2025 -> Limits: PCRERecMatchLimit limit set to 2000.
+Thu Jun 19 09:35:06 2025 -> Limits: PCREMaxFileSize limit set to 104857600.
+Thu Jun 19 09:35:06 2025 -> Archive support enabled.
+Thu Jun 19 09:35:06 2025 -> Image (graphics) scanning support enabled.
+Thu Jun 19 09:35:06 2025 -> Detection using image fuzzy hash enabled.
+Thu Jun 19 09:35:06 2025 -> AlertExceedsMax heuristic detection disabled.
+Thu Jun 19 09:35:06 2025 -> Heuristic alerts enabled.
+Thu Jun 19 09:35:06 2025 -> Portable Executable support enabled.
+Thu Jun 19 09:35:06 2025 -> ELF support enabled.
+Thu Jun 19 09:35:06 2025 -> Mail files support enabled.
+Thu Jun 19 09:35:06 2025 -> OLE2 support enabled.
+Thu Jun 19 09:35:06 2025 -> PDF support enabled.
+Thu Jun 19 09:35:06 2025 -> SWF support enabled.
+Thu Jun 19 09:35:06 2025 -> HTML support enabled.
+Thu Jun 19 09:35:06 2025 -> XMLDOCS support enabled.
+Thu Jun 19 09:35:06 2025 -> HWP3 support enabled.
+Thu Jun 19 09:35:06 2025 -> OneNote support enabled.
+Thu Jun 19 09:35:06 2025 -> Self checking every 600 seconds.
+Thu Jun 19 09:35:06 2025 -> Listening daemon: PID: 13520
+Thu Jun 19 09:35:06 2025 -> MaxQueue set to: 100
+Thu Jun 19 11:22:09 2025 -> +++ Started at Thu Jun 19 11:22:09 2025
+Thu Jun 19 11:22:09 2025 -> Received 0 file descriptor(s) from systemd.
+Thu Jun 19 11:22:09 2025 -> clamd daemon 1.4.2 (OS: Windows, ARCH: AMD64, CPU: AMD64)
+Thu Jun 19 11:22:09 2025 -> Log file size limited to 2097152 bytes.
+Thu Jun 19 11:22:09 2025 -> Reading databases from C:\Users\Purab\Documents\ClamAV_project\clamav-1.4.2.win.x64\database
+Thu Jun 19 11:22:09 2025 -> Not loading PUA signatures.
+Thu Jun 19 11:22:09 2025 -> Bytecode: Security mode set to "TrustSigned".
+Thu Jun 19 11:22:29 2025 -> Loaded 8707523 signatures.
+Thu Jun 19 11:22:32 2025 -> TCP: Bound to [127.0.0.1]:3310
+Thu Jun 19 11:22:32 2025 -> TCP: Setting connection queue length to 200
+Thu Jun 19 11:22:32 2025 -> Limits: Global time limit set to 120000 milliseconds.
+Thu Jun 19 11:22:32 2025 -> Limits: Global size limit set to 419430400 bytes.
+Thu Jun 19 11:22:32 2025 -> Limits: File size limit set to 104857600 bytes.
+Thu Jun 19 11:22:32 2025 -> Limits: Recursion level limit set to 17.
+Thu Jun 19 11:22:32 2025 -> Limits: Files limit set to 10000.
+Thu Jun 19 11:22:32 2025 -> Limits: MaxEmbeddedPE limit set to 41943040 bytes.
+Thu Jun 19 11:22:32 2025 -> Limits: MaxHTMLNormalize limit set to 41943040 bytes.
+Thu Jun 19 11:22:32 2025 -> Limits: MaxHTMLNoTags limit set to 8388608 bytes.
+Thu Jun 19 11:22:32 2025 -> Limits: MaxScriptNormalize limit set to 20971520 bytes.
+Thu Jun 19 11:22:32 2025 -> Limits: MaxZipTypeRcg limit set to 1048576 bytes.
+Thu Jun 19 11:22:32 2025 -> Limits: MaxPartitions limit set to 50.
+Thu Jun 19 11:22:32 2025 -> Limits: MaxIconsPE limit set to 100.
+Thu Jun 19 11:22:32 2025 -> Limits: MaxRecHWP3 limit set to 16.
+Thu Jun 19 11:22:32 2025 -> Limits: PCREMatchLimit limit set to 100000.
+Thu Jun 19 11:22:32 2025 -> Limits: PCRERecMatchLimit limit set to 2000.
+Thu Jun 19 11:22:32 2025 -> Limits: PCREMaxFileSize limit set to 104857600.
+Thu Jun 19 11:22:32 2025 -> Archive support enabled.
+Thu Jun 19 11:22:32 2025 -> Image (graphics) scanning support enabled.
+Thu Jun 19 11:22:32 2025 -> Detection using image fuzzy hash enabled.
+Thu Jun 19 11:22:32 2025 -> AlertExceedsMax heuristic detection disabled.
+Thu Jun 19 11:22:32 2025 -> Heuristic alerts enabled.
+Thu Jun 19 11:22:32 2025 -> Portable Executable support enabled.
+Thu Jun 19 11:22:32 2025 -> ELF support enabled.
+Thu Jun 19 11:22:32 2025 -> Mail files support enabled.
+Thu Jun 19 11:22:32 2025 -> OLE2 support enabled.
+Thu Jun 19 11:22:32 2025 -> PDF support enabled.
+Thu Jun 19 11:22:32 2025 -> SWF support enabled.
+Thu Jun 19 11:22:32 2025 -> HTML support enabled.
+Thu Jun 19 11:22:32 2025 -> XMLDOCS support enabled.
+Thu Jun 19 11:22:32 2025 -> HWP3 support enabled.
+Thu Jun 19 11:22:32 2025 -> OneNote support enabled.
+Thu Jun 19 11:22:32 2025 -> Self checking every 600 seconds.
+Thu Jun 19 11:22:32 2025 -> Listening daemon: PID: 2844
+Thu Jun 19 11:22:32 2025 -> MaxQueue set to: 100
+Thu Jun 19 11:35:52 2025 -> SelfCheck: Database status OK.
+Thu Jun 19 11:45:52 2025 -> SelfCheck: Database status OK.
+Thu Jun 19 11:55:52 2025 -> SelfCheck: Database status OK.
+Thu Jun 19 12:05:52 2025 -> SelfCheck: Database status OK.
+Fri Jun 20 13:31:47 2025 -> +++ Started at Fri Jun 20 13:31:47 2025
+Fri Jun 20 13:31:47 2025 -> Received 0 file descriptor(s) from systemd.
+Fri Jun 20 13:31:47 2025 -> clamd daemon 1.4.2 (OS: Windows, ARCH: AMD64, CPU: AMD64)
+Fri Jun 20 13:31:47 2025 -> Log file size limited to 2097152 bytes.
+Fri Jun 20 13:31:47 2025 -> Reading databases from C:\Users\Purab\Documents\ClamAV_project\clamav-1.4.2.win.x64\database
+Fri Jun 20 13:31:47 2025 -> Not loading PUA signatures.
+Fri Jun 20 13:31:47 2025 -> Bytecode: Security mode set to "TrustSigned".
+Fri Jun 20 13:32:00 2025 -> Loaded 8707523 signatures.
+Fri Jun 20 13:32:03 2025 -> TCP: Bound to [127.0.0.1]:3310
+Fri Jun 20 13:32:03 2025 -> TCP: Setting connection queue length to 200
+Fri Jun 20 13:32:03 2025 -> Limits: Global time limit set to 120000 milliseconds.
+Fri Jun 20 13:32:03 2025 -> Limits: Global size limit set to 419430400 bytes.
+Fri Jun 20 13:32:03 2025 -> Limits: File size limit set to 104857600 bytes.
+Fri Jun 20 13:32:03 2025 -> Limits: Recursion level limit set to 17.
+Fri Jun 20 13:32:03 2025 -> Limits: Files limit set to 10000.
+Fri Jun 20 13:32:03 2025 -> Limits: MaxEmbeddedPE limit set to 41943040 bytes.
+Fri Jun 20 13:32:03 2025 -> Limits: MaxHTMLNormalize limit set to 41943040 bytes.
+Fri Jun 20 13:32:03 2025 -> Limits: MaxHTMLNoTags limit set to 8388608 bytes.
+Fri Jun 20 13:32:03 2025 -> Limits: MaxScriptNormalize limit set to 20971520 bytes.
+Fri Jun 20 13:32:03 2025 -> Limits: MaxZipTypeRcg limit set to 1048576 bytes.
+Fri Jun 20 13:32:03 2025 -> Limits: MaxPartitions limit set to 50.
+Fri Jun 20 13:32:03 2025 -> Limits: MaxIconsPE limit set to 100.
+Fri Jun 20 13:32:03 2025 -> Limits: MaxRecHWP3 limit set to 16.
+Fri Jun 20 13:32:03 2025 -> Limits: PCREMatchLimit limit set to 100000.
+Fri Jun 20 13:32:03 2025 -> Limits: PCRERecMatchLimit limit set to 2000.
+Fri Jun 20 13:32:03 2025 -> Limits: PCREMaxFileSize limit set to 104857600.
+Fri Jun 20 13:32:03 2025 -> Archive support enabled.
+Fri Jun 20 13:32:03 2025 -> Image (graphics) scanning support enabled.
+Fri Jun 20 13:32:03 2025 -> Detection using image fuzzy hash enabled.
+Fri Jun 20 13:32:03 2025 -> AlertExceedsMax heuristic detection disabled.
+Fri Jun 20 13:32:03 2025 -> Heuristic alerts enabled.
+Fri Jun 20 13:32:03 2025 -> Portable Executable support enabled.
+Fri Jun 20 13:32:03 2025 -> ELF support enabled.
+Fri Jun 20 13:32:03 2025 -> Mail files support enabled.
+Fri Jun 20 13:32:03 2025 -> OLE2 support enabled.
+Fri Jun 20 13:32:03 2025 -> PDF support enabled.
+Fri Jun 20 13:32:03 2025 -> SWF support enabled.
+Fri Jun 20 13:32:03 2025 -> HTML support enabled.
+Fri Jun 20 13:32:03 2025 -> XMLDOCS support enabled.
+Fri Jun 20 13:32:03 2025 -> HWP3 support enabled.
+Fri Jun 20 13:32:03 2025 -> OneNote support enabled.
+Fri Jun 20 13:32:03 2025 -> Self checking every 600 seconds.
+Fri Jun 20 13:32:03 2025 -> Listening daemon: PID: 13240
+Fri Jun 20 13:32:03 2025 -> MaxQueue set to: 100
+Fri Jun 20 14:50:08 2025 -> +++ Started at Fri Jun 20 14:50:08 2025
+Fri Jun 20 14:50:08 2025 -> Received 0 file descriptor(s) from systemd.
+Fri Jun 20 14:50:08 2025 -> clamd daemon 1.4.2 (OS: Windows, ARCH: AMD64, CPU: AMD64)
+Fri Jun 20 14:50:08 2025 -> Log file size limited to 2097152 bytes.
+Fri Jun 20 14:50:08 2025 -> Reading databases from C:\Users\Purab\Documents\ClamAV_project\clamav-1.4.2.win.x64\database
+Fri Jun 20 14:50:08 2025 -> Not loading PUA signatures.
+Fri Jun 20 14:50:08 2025 -> Bytecode: Security mode set to "TrustSigned".
+Fri Jun 20 14:50:21 2025 -> Loaded 8707523 signatures.
+Fri Jun 20 14:50:24 2025 -> TCP: Bound to [127.0.0.1]:3310
+Fri Jun 20 14:50:24 2025 -> TCP: Setting connection queue length to 200
+Fri Jun 20 14:50:24 2025 -> Limits: Global time limit set to 120000 milliseconds.
+Fri Jun 20 14:50:24 2025 -> Limits: Global size limit set to 419430400 bytes.
+Fri Jun 20 14:50:24 2025 -> Limits: File size limit set to 104857600 bytes.
+Fri Jun 20 14:50:24 2025 -> Limits: Recursion level limit set to 17.
+Fri Jun 20 14:50:24 2025 -> Limits: Files limit set to 10000.
+Fri Jun 20 14:50:24 2025 -> Limits: MaxEmbeddedPE limit set to 41943040 bytes.
+Fri Jun 20 14:50:24 2025 -> Limits: MaxHTMLNormalize limit set to 41943040 bytes.
+Fri Jun 20 14:50:24 2025 -> Limits: MaxHTMLNoTags limit set to 8388608 bytes.
+Fri Jun 20 14:50:24 2025 -> Limits: MaxScriptNormalize limit set to 20971520 bytes.
+Fri Jun 20 14:50:24 2025 -> Limits: MaxZipTypeRcg limit set to 1048576 bytes.
+Fri Jun 20 14:50:24 2025 -> Limits: MaxPartitions limit set to 50.
+Fri Jun 20 14:50:24 2025 -> Limits: MaxIconsPE limit set to 100.
+Fri Jun 20 14:50:24 2025 -> Limits: MaxRecHWP3 limit set to 16.
+Fri Jun 20 14:50:24 2025 -> Limits: PCREMatchLimit limit set to 100000.
+Fri Jun 20 14:50:24 2025 -> Limits: PCRERecMatchLimit limit set to 2000.
+Fri Jun 20 14:50:24 2025 -> Limits: PCREMaxFileSize limit set to 104857600.
+Fri Jun 20 14:50:24 2025 -> Archive support enabled.
+Fri Jun 20 14:50:24 2025 -> Image (graphics) scanning support enabled.
+Fri Jun 20 14:50:24 2025 -> Detection using image fuzzy hash enabled.
+Fri Jun 20 14:50:24 2025 -> AlertExceedsMax heuristic detection disabled.
+Fri Jun 20 14:50:24 2025 -> Heuristic alerts enabled.
+Fri Jun 20 14:50:24 2025 -> Portable Executable support enabled.
+Fri Jun 20 14:50:24 2025 -> ELF support enabled.
+Fri Jun 20 14:50:24 2025 -> Mail files support enabled.
+Fri Jun 20 14:50:24 2025 -> OLE2 support enabled.
+Fri Jun 20 14:50:24 2025 -> PDF support enabled.
+Fri Jun 20 14:50:24 2025 -> SWF support enabled.
+Fri Jun 20 14:50:24 2025 -> HTML support enabled.
+Fri Jun 20 14:50:24 2025 -> XMLDOCS support enabled.
+Fri Jun 20 14:50:24 2025 -> HWP3 support enabled.
+Fri Jun 20 14:50:24 2025 -> OneNote support enabled.
+Fri Jun 20 14:50:24 2025 -> Self checking every 600 seconds.
+Fri Jun 20 14:50:24 2025 -> Listening daemon: PID: 1588
+Fri Jun 20 14:50:24 2025 -> MaxQueue set to: 100
+Mon Jun 23 09:27:01 2025 -> +++ Started at Mon Jun 23 09:27:01 2025
+Mon Jun 23 09:27:01 2025 -> Received 0 file descriptor(s) from systemd.
+Mon Jun 23 09:27:01 2025 -> clamd daemon 1.4.2 (OS: Windows, ARCH: AMD64, CPU: AMD64)
+Mon Jun 23 09:27:01 2025 -> Log file size limited to 2097152 bytes.
+Mon Jun 23 09:27:01 2025 -> Reading databases from C:\Users\Purab\Documents\ClamAV_project\clamav-1.4.2.win.x64\database
+Mon Jun 23 09:27:01 2025 -> Not loading PUA signatures.
+Mon Jun 23 09:27:01 2025 -> Bytecode: Security mode set to "TrustSigned".
+Mon Jun 23 09:27:22 2025 -> Loaded 8707523 signatures.
+Mon Jun 23 09:27:27 2025 -> TCP: Bound to [127.0.0.1]:3310
+Mon Jun 23 09:27:27 2025 -> TCP: Setting connection queue length to 200
+Mon Jun 23 09:27:27 2025 -> Limits: Global time limit set to 120000 milliseconds.
+Mon Jun 23 09:27:27 2025 -> Limits: Global size limit set to 419430400 bytes.
+Mon Jun 23 09:27:27 2025 -> Limits: File size limit set to 104857600 bytes.
+Mon Jun 23 09:27:27 2025 -> Limits: Recursion level limit set to 17.
+Mon Jun 23 09:27:27 2025 -> Limits: Files limit set to 10000.
+Mon Jun 23 09:27:27 2025 -> Limits: MaxEmbeddedPE limit set to 41943040 bytes.
+Mon Jun 23 09:27:27 2025 -> Limits: MaxHTMLNormalize limit set to 41943040 bytes.
+Mon Jun 23 09:27:27 2025 -> Limits: MaxHTMLNoTags limit set to 8388608 bytes.
+Mon Jun 23 09:27:27 2025 -> Limits: MaxScriptNormalize limit set to 20971520 bytes.
+Mon Jun 23 09:27:27 2025 -> Limits: MaxZipTypeRcg limit set to 1048576 bytes.
+Mon Jun 23 09:27:27 2025 -> Limits: MaxPartitions limit set to 50.
+Mon Jun 23 09:27:27 2025 -> Limits: MaxIconsPE limit set to 100.
+Mon Jun 23 09:27:27 2025 -> Limits: MaxRecHWP3 limit set to 16.
+Mon Jun 23 09:27:27 2025 -> Limits: PCREMatchLimit limit set to 100000.
+Mon Jun 23 09:27:27 2025 -> Limits: PCRERecMatchLimit limit set to 2000.
+Mon Jun 23 09:27:27 2025 -> Limits: PCREMaxFileSize limit set to 104857600.
+Mon Jun 23 09:27:27 2025 -> Archive support enabled.
+Mon Jun 23 09:27:27 2025 -> Image (graphics) scanning support enabled.
+Mon Jun 23 09:27:27 2025 -> Detection using image fuzzy hash enabled.
+Mon Jun 23 09:27:27 2025 -> AlertExceedsMax heuristic detection disabled.
+Mon Jun 23 09:27:27 2025 -> Heuristic alerts enabled.
+Mon Jun 23 09:27:27 2025 -> Portable Executable support enabled.
+Mon Jun 23 09:27:27 2025 -> ELF support enabled.
+Mon Jun 23 09:27:27 2025 -> Mail files support enabled.
+Mon Jun 23 09:27:27 2025 -> OLE2 support enabled.
+Mon Jun 23 09:27:27 2025 -> PDF support enabled.
+Mon Jun 23 09:27:27 2025 -> SWF support enabled.
+Mon Jun 23 09:27:27 2025 -> HTML support enabled.
+Mon Jun 23 09:27:27 2025 -> XMLDOCS support enabled.
+Mon Jun 23 09:27:27 2025 -> HWP3 support enabled.
+Mon Jun 23 09:27:27 2025 -> OneNote support enabled.
+Mon Jun 23 09:27:27 2025 -> Self checking every 600 seconds.
+Mon Jun 23 09:27:27 2025 -> Listening daemon: PID: 11148
+Mon Jun 23 09:27:27 2025 -> MaxQueue set to: 100
+Mon Jun 23 09:37:59 2025 -> +++ Started at Mon Jun 23 09:37:59 2025
+Mon Jun 23 09:37:59 2025 -> Received 0 file descriptor(s) from systemd.
+Mon Jun 23 09:37:59 2025 -> clamd daemon 1.4.2 (OS: Windows, ARCH: AMD64, CPU: AMD64)
+Mon Jun 23 09:37:59 2025 -> Log file size limited to 2097152 bytes.
+Mon Jun 23 09:37:59 2025 -> Reading databases from C:\Users\Purab\Documents\ClamAV_project\clamav-1.4.2.win.x64\database
+Mon Jun 23 09:37:59 2025 -> Not loading PUA signatures.
+Mon Jun 23 09:37:59 2025 -> Bytecode: Security mode set to "TrustSigned".
+Mon Jun 23 09:38:22 2025 -> Loaded 8707523 signatures.
+Mon Jun 23 09:38:28 2025 -> TCP: Bound to [127.0.0.1]:3310
+Mon Jun 23 09:38:28 2025 -> TCP: Setting connection queue length to 200
+Mon Jun 23 09:38:28 2025 -> Limits: Global time limit set to 120000 milliseconds.
+Mon Jun 23 09:38:28 2025 -> Limits: Global size limit set to 419430400 bytes.
+Mon Jun 23 09:38:28 2025 -> Limits: File size limit set to 104857600 bytes.
+Mon Jun 23 09:38:28 2025 -> Limits: Recursion level limit set to 17.
+Mon Jun 23 09:38:28 2025 -> Limits: Files limit set to 10000.
+Mon Jun 23 09:38:28 2025 -> Limits: MaxEmbeddedPE limit set to 41943040 bytes.
+Mon Jun 23 09:38:28 2025 -> Limits: MaxHTMLNormalize limit set to 41943040 bytes.
+Mon Jun 23 09:38:28 2025 -> Limits: MaxHTMLNoTags limit set to 8388608 bytes.
+Mon Jun 23 09:38:28 2025 -> Limits: MaxScriptNormalize limit set to 20971520 bytes.
+Mon Jun 23 09:38:28 2025 -> Limits: MaxZipTypeRcg limit set to 1048576 bytes.
+Mon Jun 23 09:38:28 2025 -> Limits: MaxPartitions limit set to 50.
+Mon Jun 23 09:38:28 2025 -> Limits: MaxIconsPE limit set to 100.
+Mon Jun 23 09:38:28 2025 -> Limits: MaxRecHWP3 limit set to 16.
+Mon Jun 23 09:38:28 2025 -> Limits: PCREMatchLimit limit set to 100000.
+Mon Jun 23 09:38:28 2025 -> Limits: PCRERecMatchLimit limit set to 2000.
+Mon Jun 23 09:38:28 2025 -> Limits: PCREMaxFileSize limit set to 104857600.
+Mon Jun 23 09:38:28 2025 -> Archive support enabled.
+Mon Jun 23 09:38:28 2025 -> Image (graphics) scanning support enabled.
+Mon Jun 23 09:38:28 2025 -> Detection using image fuzzy hash enabled.
+Mon Jun 23 09:38:28 2025 -> AlertExceedsMax heuristic detection disabled.
+Mon Jun 23 09:38:28 2025 -> Heuristic alerts enabled.
+Mon Jun 23 09:38:28 2025 -> Portable Executable support enabled.
+Mon Jun 23 09:38:28 2025 -> ELF support enabled.
+Mon Jun 23 09:38:28 2025 -> Mail files support enabled.
+Mon Jun 23 09:38:28 2025 -> OLE2 support enabled.
+Mon Jun 23 09:38:28 2025 -> PDF support enabled.
+Mon Jun 23 09:38:28 2025 -> SWF support enabled.
+Mon Jun 23 09:38:28 2025 -> HTML support enabled.
+Mon Jun 23 09:38:28 2025 -> XMLDOCS support enabled.
+Mon Jun 23 09:38:28 2025 -> HWP3 support enabled.
+Mon Jun 23 09:38:28 2025 -> OneNote support enabled.
+Mon Jun 23 09:38:28 2025 -> Self checking every 600 seconds.
+Mon Jun 23 09:38:28 2025 -> Listening daemon: PID: 9212
+Mon Jun 23 09:38:28 2025 -> MaxQueue set to: 100
+Mon Jun 23 09:50:57 2025 -> +++ Started at Mon Jun 23 09:50:57 2025
+Mon Jun 23 09:50:57 2025 -> Received 0 file descriptor(s) from systemd.
+Mon Jun 23 09:50:57 2025 -> clamd daemon 1.4.2 (OS: Windows, ARCH: AMD64, CPU: AMD64)
+Mon Jun 23 09:50:57 2025 -> Log file size limited to 2097152 bytes.
+Mon Jun 23 09:50:57 2025 -> Reading databases from C:\Users\Purab\Documents\ClamAV_project\clamav-1.4.2.win.x64\database
+Mon Jun 23 09:50:57 2025 -> Not loading PUA signatures.
+Mon Jun 23 09:50:57 2025 -> Bytecode: Security mode set to "TrustSigned".
+Mon Jun 23 09:51:12 2025 -> Loaded 8707523 signatures.
+Mon Jun 23 09:51:15 2025 -> TCP: Bound to [127.0.0.1]:3310
+Mon Jun 23 09:51:15 2025 -> TCP: Setting connection queue length to 200
+Mon Jun 23 09:51:15 2025 -> Limits: Global time limit set to 120000 milliseconds.
+Mon Jun 23 09:51:15 2025 -> Limits: Global size limit set to 419430400 bytes.
+Mon Jun 23 09:51:15 2025 -> Limits: File size limit set to 104857600 bytes.
+Mon Jun 23 09:51:15 2025 -> Limits: Recursion level limit set to 17.
+Mon Jun 23 09:51:15 2025 -> Limits: Files limit set to 10000.
+Mon Jun 23 09:51:15 2025 -> Limits: MaxEmbeddedPE limit set to 41943040 bytes.
+Mon Jun 23 09:51:15 2025 -> Limits: MaxHTMLNormalize limit set to 41943040 bytes.
+Mon Jun 23 09:51:15 2025 -> Limits: MaxHTMLNoTags limit set to 8388608 bytes.
+Mon Jun 23 09:51:15 2025 -> Limits: MaxScriptNormalize limit set to 20971520 bytes.
+Mon Jun 23 09:51:15 2025 -> Limits: MaxZipTypeRcg limit set to 1048576 bytes.
+Mon Jun 23 09:51:15 2025 -> Limits: MaxPartitions limit set to 50.
+Mon Jun 23 09:51:15 2025 -> Limits: MaxIconsPE limit set to 100.
+Mon Jun 23 09:51:15 2025 -> Limits: MaxRecHWP3 limit set to 16.
+Mon Jun 23 09:51:15 2025 -> Limits: PCREMatchLimit limit set to 100000.
+Mon Jun 23 09:51:15 2025 -> Limits: PCRERecMatchLimit limit set to 2000.
+Mon Jun 23 09:51:15 2025 -> Limits: PCREMaxFileSize limit set to 104857600.
+Mon Jun 23 09:51:15 2025 -> Archive support enabled.
+Mon Jun 23 09:51:15 2025 -> Image (graphics) scanning support enabled.
+Mon Jun 23 09:51:15 2025 -> Detection using image fuzzy hash enabled.
+Mon Jun 23 09:51:15 2025 -> AlertExceedsMax heuristic detection disabled.
+Mon Jun 23 09:51:15 2025 -> Heuristic alerts enabled.
+Mon Jun 23 09:51:15 2025 -> Portable Executable support enabled.
+Mon Jun 23 09:51:15 2025 -> ELF support enabled.
+Mon Jun 23 09:51:15 2025 -> Mail files support enabled.
+Mon Jun 23 09:51:15 2025 -> OLE2 support enabled.
+Mon Jun 23 09:51:15 2025 -> PDF support enabled.
+Mon Jun 23 09:51:15 2025 -> SWF support enabled.
+Mon Jun 23 09:51:15 2025 -> HTML support enabled.
+Mon Jun 23 09:51:15 2025 -> XMLDOCS support enabled.
+Mon Jun 23 09:51:15 2025 -> HWP3 support enabled.
+Mon Jun 23 09:51:15 2025 -> OneNote support enabled.
+Mon Jun 23 09:51:15 2025 -> Self checking every 600 seconds.
+Mon Jun 23 09:51:15 2025 -> Listening daemon: PID: 3292
+Mon Jun 23 09:51:15 2025 -> MaxQueue set to: 100
+Mon Jun 23 13:18:02 2025 -> +++ Started at Mon Jun 23 13:18:02 2025
+Mon Jun 23 13:18:02 2025 -> Received 0 file descriptor(s) from systemd.
+Mon Jun 23 13:18:02 2025 -> clamd daemon 1.4.2 (OS: Windows, ARCH: AMD64, CPU: AMD64)
+Mon Jun 23 13:18:02 2025 -> Log file size limited to 2097152 bytes.
+Mon Jun 23 13:18:02 2025 -> Reading databases from C:\Users\Purab\Documents\ClamAV_project\clamav-1.4.2.win.x64\database
+Mon Jun 23 13:18:02 2025 -> Not loading PUA signatures.
+Mon Jun 23 13:18:02 2025 -> Bytecode: Security mode set to "TrustSigned".
+Mon Jun 23 13:18:16 2025 -> Loaded 8707523 signatures.
+Mon Jun 23 13:18:18 2025 -> TCP: Bound to [127.0.0.1]:3310
+Mon Jun 23 13:18:18 2025 -> TCP: Setting connection queue length to 200
+Mon Jun 23 13:18:18 2025 -> Limits: Global time limit set to 120000 milliseconds.
+Mon Jun 23 13:18:18 2025 -> Limits: Global size limit set to 419430400 bytes.
+Mon Jun 23 13:18:18 2025 -> Limits: File size limit set to 104857600 bytes.
+Mon Jun 23 13:18:18 2025 -> Limits: Recursion level limit set to 17.
+Mon Jun 23 13:18:18 2025 -> Limits: Files limit set to 10000.
+Mon Jun 23 13:18:18 2025 -> Limits: MaxEmbeddedPE limit set to 41943040 bytes.
+Mon Jun 23 13:18:18 2025 -> Limits: MaxHTMLNormalize limit set to 41943040 bytes.
+Mon Jun 23 13:18:18 2025 -> Limits: MaxHTMLNoTags limit set to 8388608 bytes.
+Mon Jun 23 13:18:18 2025 -> Limits: MaxScriptNormalize limit set to 20971520 bytes.
+Mon Jun 23 13:18:18 2025 -> Limits: MaxZipTypeRcg limit set to 1048576 bytes.
+Mon Jun 23 13:18:18 2025 -> Limits: MaxPartitions limit set to 50.
+Mon Jun 23 13:18:18 2025 -> Limits: MaxIconsPE limit set to 100.
+Mon Jun 23 13:18:18 2025 -> Limits: MaxRecHWP3 limit set to 16.
+Mon Jun 23 13:18:18 2025 -> Limits: PCREMatchLimit limit set to 100000.
+Mon Jun 23 13:18:18 2025 -> Limits: PCRERecMatchLimit limit set to 2000.
+Mon Jun 23 13:18:18 2025 -> Limits: PCREMaxFileSize limit set to 104857600.
+Mon Jun 23 13:18:18 2025 -> Archive support enabled.
+Mon Jun 23 13:18:18 2025 -> Image (graphics) scanning support enabled.
+Mon Jun 23 13:18:18 2025 -> Detection using image fuzzy hash enabled.
+Mon Jun 23 13:18:18 2025 -> AlertExceedsMax heuristic detection disabled.
+Mon Jun 23 13:18:18 2025 -> Heuristic alerts enabled.
+Mon Jun 23 13:18:18 2025 -> Portable Executable support enabled.
+Mon Jun 23 13:18:18 2025 -> ELF support enabled.
+Mon Jun 23 13:18:18 2025 -> Mail files support enabled.
+Mon Jun 23 13:18:18 2025 -> OLE2 support enabled.
+Mon Jun 23 13:18:18 2025 -> PDF support enabled.
+Mon Jun 23 13:18:18 2025 -> SWF support enabled.
+Mon Jun 23 13:18:18 2025 -> HTML support enabled.
+Mon Jun 23 13:18:18 2025 -> XMLDOCS support enabled.
+Mon Jun 23 13:18:18 2025 -> HWP3 support enabled.
+Mon Jun 23 13:18:18 2025 -> OneNote support enabled.
+Mon Jun 23 13:18:18 2025 -> Self checking every 600 seconds.
+Mon Jun 23 13:18:18 2025 -> Listening daemon: PID: 17384
+Mon Jun 23 13:18:18 2025 -> MaxQueue set to: 100
+Tue Jun 24 13:51:06 2025 -> +++ Started at Tue Jun 24 13:51:06 2025
+Tue Jun 24 13:51:06 2025 -> Received 0 file descriptor(s) from systemd.
+Tue Jun 24 13:51:06 2025 -> clamd daemon 1.4.2 (OS: Windows, ARCH: AMD64, CPU: AMD64)
+Tue Jun 24 13:51:06 2025 -> Log file size limited to 2097152 bytes.
+Tue Jun 24 13:51:06 2025 -> Reading databases from C:\Users\Purab\Documents\ClamAV_project\clamav-1.4.2.win.x64\database
+Tue Jun 24 13:51:06 2025 -> Not loading PUA signatures.
+Tue Jun 24 13:51:06 2025 -> Bytecode: Security mode set to "TrustSigned".
+Tue Jun 24 13:51:26 2025 -> Loaded 8707523 signatures.
+Tue Jun 24 13:51:30 2025 -> TCP: Bound to [127.0.0.1]:3310
+Tue Jun 24 13:51:30 2025 -> TCP: Setting connection queue length to 200
+Tue Jun 24 13:51:30 2025 -> Limits: Global time limit set to 120000 milliseconds.
+Tue Jun 24 13:51:30 2025 -> Limits: Global size limit set to 419430400 bytes.
+Tue Jun 24 13:51:30 2025 -> Limits: File size limit set to 104857600 bytes.
+Tue Jun 24 13:51:30 2025 -> Limits: Recursion level limit set to 17.
+Tue Jun 24 13:51:30 2025 -> Limits: Files limit set to 10000.
+Tue Jun 24 13:51:30 2025 -> Limits: MaxEmbeddedPE limit set to 41943040 bytes.
+Tue Jun 24 13:51:30 2025 -> Limits: MaxHTMLNormalize limit set to 41943040 bytes.
+Tue Jun 24 13:51:30 2025 -> Limits: MaxHTMLNoTags limit set to 8388608 bytes.
+Tue Jun 24 13:51:30 2025 -> Limits: MaxScriptNormalize limit set to 20971520 bytes.
+Tue Jun 24 13:51:30 2025 -> Limits: MaxZipTypeRcg limit set to 1048576 bytes.
+Tue Jun 24 13:51:30 2025 -> Limits: MaxPartitions limit set to 50.
+Tue Jun 24 13:51:30 2025 -> Limits: MaxIconsPE limit set to 100.
+Tue Jun 24 13:51:30 2025 -> Limits: MaxRecHWP3 limit set to 16.
+Tue Jun 24 13:51:30 2025 -> Limits: PCREMatchLimit limit set to 100000.
+Tue Jun 24 13:51:30 2025 -> Limits: PCRERecMatchLimit limit set to 2000.
+Tue Jun 24 13:51:30 2025 -> Limits: PCREMaxFileSize limit set to 104857600.
+Tue Jun 24 13:51:30 2025 -> Archive support enabled.
+Tue Jun 24 13:51:30 2025 -> Image (graphics) scanning support enabled.
+Tue Jun 24 13:51:30 2025 -> Detection using image fuzzy hash enabled.
+Tue Jun 24 13:51:30 2025 -> AlertExceedsMax heuristic detection disabled.
+Tue Jun 24 13:51:30 2025 -> Heuristic alerts enabled.
+Tue Jun 24 13:51:30 2025 -> Portable Executable support enabled.
+Tue Jun 24 13:51:30 2025 -> ELF support enabled.
+Tue Jun 24 13:51:30 2025 -> Mail files support enabled.
+Tue Jun 24 13:51:30 2025 -> OLE2 support enabled.
+Tue Jun 24 13:51:30 2025 -> PDF support enabled.
+Tue Jun 24 13:51:30 2025 -> SWF support enabled.
+Tue Jun 24 13:51:30 2025 -> HTML support enabled.
+Tue Jun 24 13:51:30 2025 -> XMLDOCS support enabled.
+Tue Jun 24 13:51:30 2025 -> HWP3 support enabled.
+Tue Jun 24 13:51:30 2025 -> OneNote support enabled.
+Tue Jun 24 13:51:30 2025 -> Self checking every 600 seconds.
+Tue Jun 24 13:51:30 2025 -> Listening daemon: PID: 9808
+Tue Jun 24 13:51:30 2025 -> MaxQueue set to: 100
+Tue Jun 24 14:03:53 2025 -> +++ Started at Tue Jun 24 14:03:53 2025
+Tue Jun 24 14:03:53 2025 -> Received 0 file descriptor(s) from systemd.
+Tue Jun 24 14:03:53 2025 -> clamd daemon 1.4.2 (OS: Windows, ARCH: AMD64, CPU: AMD64)
+Tue Jun 24 14:03:53 2025 -> Log file size limited to 2097152 bytes.
+Tue Jun 24 14:03:53 2025 -> Reading databases from C:\Users\Purab\Documents\ClamAV_project\clamav-1.4.2.win.x64\database
+Tue Jun 24 14:03:53 2025 -> Not loading PUA signatures.
+Tue Jun 24 14:03:53 2025 -> Bytecode: Security mode set to "TrustSigned".
+Tue Jun 24 14:04:13 2025 -> Loaded 8707523 signatures.
+Tue Jun 24 14:04:17 2025 -> TCP: Bound to [127.0.0.1]:3310
+Tue Jun 24 14:04:17 2025 -> TCP: Setting connection queue length to 200
+Tue Jun 24 14:04:17 2025 -> Limits: Global time limit set to 120000 milliseconds.
+Tue Jun 24 14:04:17 2025 -> Limits: Global size limit set to 419430400 bytes.
+Tue Jun 24 14:04:17 2025 -> Limits: File size limit set to 104857600 bytes.
+Tue Jun 24 14:04:17 2025 -> Limits: Recursion level limit set to 17.
+Tue Jun 24 14:04:17 2025 -> Limits: Files limit set to 10000.
+Tue Jun 24 14:04:17 2025 -> Limits: MaxEmbeddedPE limit set to 41943040 bytes.
+Tue Jun 24 14:04:17 2025 -> Limits: MaxHTMLNormalize limit set to 41943040 bytes.
+Tue Jun 24 14:04:17 2025 -> Limits: MaxHTMLNoTags limit set to 8388608 bytes.
+Tue Jun 24 14:04:17 2025 -> Limits: MaxScriptNormalize limit set to 20971520 bytes.
+Tue Jun 24 14:04:17 2025 -> Limits: MaxZipTypeRcg limit set to 1048576 bytes.
+Tue Jun 24 14:04:17 2025 -> Limits: MaxPartitions limit set to 50.
+Tue Jun 24 14:04:17 2025 -> Limits: MaxIconsPE limit set to 100.
+Tue Jun 24 14:04:17 2025 -> Limits: MaxRecHWP3 limit set to 16.
+Tue Jun 24 14:04:17 2025 -> Limits: PCREMatchLimit limit set to 100000.
+Tue Jun 24 14:04:17 2025 -> Limits: PCRERecMatchLimit limit set to 2000.
+Tue Jun 24 14:04:17 2025 -> Limits: PCREMaxFileSize limit set to 104857600.
+Tue Jun 24 14:04:17 2025 -> Archive support enabled.
+Tue Jun 24 14:04:17 2025 -> Image (graphics) scanning support enabled.
+Tue Jun 24 14:04:17 2025 -> Detection using image fuzzy hash enabled.
+Tue Jun 24 14:04:17 2025 -> AlertExceedsMax heuristic detection disabled.
+Tue Jun 24 14:04:17 2025 -> Heuristic alerts enabled.
+Tue Jun 24 14:04:17 2025 -> Portable Executable support enabled.
+Tue Jun 24 14:04:17 2025 -> ELF support enabled.
+Tue Jun 24 14:04:17 2025 -> Mail files support enabled.
+Tue Jun 24 14:04:17 2025 -> OLE2 support enabled.
+Tue Jun 24 14:04:17 2025 -> PDF support enabled.
+Tue Jun 24 14:04:17 2025 -> SWF support enabled.
+Tue Jun 24 14:04:17 2025 -> HTML support enabled.
+Tue Jun 24 14:04:17 2025 -> XMLDOCS support enabled.
+Tue Jun 24 14:04:17 2025 -> HWP3 support enabled.
+Tue Jun 24 14:04:17 2025 -> OneNote support enabled.
+Tue Jun 24 14:04:17 2025 -> Self checking every 600 seconds.
+Tue Jun 24 14:04:17 2025 -> Listening daemon: PID: 16244
+Tue Jun 24 14:04:17 2025 -> MaxQueue set to: 100
+Tue Jun 24 14:14:17 2025 -> SelfCheck: Database status OK.
+Tue Jun 24 14:24:17 2025 -> SelfCheck: Database status OK.
+Tue Jun 24 14:34:17 2025 -> SelfCheck: Database status OK.
+Tue Jun 24 14:44:17 2025 -> SelfCheck: Database status OK.
+Tue Jun 24 15:16:43 2025 -> SelfCheck: Database status OK.
+Tue Jun 24 15:26:43 2025 -> SelfCheck: Database status OK.
+Tue Jun 24 15:36:43 2025 -> SelfCheck: Database status OK.
+Tue Jun 24 15:46:43 2025 -> SelfCheck: Database status OK.
+Tue Jun 24 15:56:43 2025 -> SelfCheck: Database status OK.
+Mon Jul 28 09:45:58 2025 -> +++ Started at Mon Jul 28 09:45:58 2025
+Mon Jul 28 09:46:00 2025 -> Received 0 file descriptor(s) from systemd.
+Mon Jul 28 09:46:00 2025 -> clamd daemon 1.4.2 (OS: Windows, ARCH: AMD64, CPU: AMD64)
+Mon Jul 28 09:46:00 2025 -> Log file size limited to 2097152 bytes.
+Mon Jul 28 09:46:00 2025 -> Reading databases from C:\Users\Purab\Documents\ClamAV_project\clamav-1.4.2.win.x64\database
+Mon Jul 28 09:46:00 2025 -> Not loading PUA signatures.
+Mon Jul 28 09:46:00 2025 -> Bytecode: Security mode set to "TrustSigned".
+Mon Jul 28 09:46:14 2025 -> Loaded 8707523 signatures.
+Mon Jul 28 09:46:17 2025 -> TCP: Bound to [127.0.0.1]:3310
+Mon Jul 28 09:46:17 2025 -> TCP: Setting connection queue length to 200
+Mon Jul 28 09:46:17 2025 -> Limits: Global time limit set to 120000 milliseconds.
+Mon Jul 28 09:46:17 2025 -> Limits: Global size limit set to 419430400 bytes.
+Mon Jul 28 09:46:17 2025 -> Limits: File size limit set to 104857600 bytes.
+Mon Jul 28 09:46:17 2025 -> Limits: Recursion level limit set to 17.
+Mon Jul 28 09:46:17 2025 -> Limits: Files limit set to 10000.
+Mon Jul 28 09:46:17 2025 -> Limits: MaxEmbeddedPE limit set to 41943040 bytes.
+Mon Jul 28 09:46:17 2025 -> Limits: MaxHTMLNormalize limit set to 41943040 bytes.
+Mon Jul 28 09:46:17 2025 -> Limits: MaxHTMLNoTags limit set to 8388608 bytes.
+Mon Jul 28 09:46:17 2025 -> Limits: MaxScriptNormalize limit set to 20971520 bytes.
+Mon Jul 28 09:46:17 2025 -> Limits: MaxZipTypeRcg limit set to 1048576 bytes.
+Mon Jul 28 09:46:17 2025 -> Limits: MaxPartitions limit set to 50.
+Mon Jul 28 09:46:17 2025 -> Limits: MaxIconsPE limit set to 100.
+Mon Jul 28 09:46:17 2025 -> Limits: MaxRecHWP3 limit set to 16.
+Mon Jul 28 09:46:17 2025 -> Limits: PCREMatchLimit limit set to 100000.
+Mon Jul 28 09:46:17 2025 -> Limits: PCRERecMatchLimit limit set to 2000.
+Mon Jul 28 09:46:17 2025 -> Limits: PCREMaxFileSize limit set to 104857600.
+Mon Jul 28 09:46:17 2025 -> Archive support enabled.
+Mon Jul 28 09:46:17 2025 -> Image (graphics) scanning support enabled.
+Mon Jul 28 09:46:17 2025 -> Detection using image fuzzy hash enabled.
+Mon Jul 28 09:46:17 2025 -> AlertExceedsMax heuristic detection disabled.
+Mon Jul 28 09:46:17 2025 -> Heuristic alerts enabled.
+Mon Jul 28 09:46:17 2025 -> Portable Executable support enabled.
+Mon Jul 28 09:46:17 2025 -> ELF support enabled.
+Mon Jul 28 09:46:17 2025 -> Mail files support enabled.
+Mon Jul 28 09:46:17 2025 -> OLE2 support enabled.
+Mon Jul 28 09:46:17 2025 -> PDF support enabled.
+Mon Jul 28 09:46:17 2025 -> SWF support enabled.
+Mon Jul 28 09:46:17 2025 -> HTML support enabled.
+Mon Jul 28 09:46:17 2025 -> XMLDOCS support enabled.
+Mon Jul 28 09:46:17 2025 -> HWP3 support enabled.
+Mon Jul 28 09:46:17 2025 -> OneNote support enabled.
+Mon Jul 28 09:46:17 2025 -> Self checking every 600 seconds.
+Mon Jul 28 09:46:17 2025 -> Listening daemon: PID: 11032
+Mon Jul 28 09:46:17 2025 -> MaxQueue set to: 100
